@@ -1,0 +1,82 @@
+[
+    {
+        "id": "1",
+        "name": "Shalini",
+        "email": "shals190299@gmail.com",
+        "password": "$2y$10$Ymq7kzGnlCw\/xp9HK0utCetpM82x8bO\/kHq3L\/5mQFk3nzjWt36Um",
+        "age": "22",
+        "dob": "1999-02-19",
+        "contact": "9840219171",
+        "timestamp": "2022-01-04 15:51:53"
+    },
+    {
+        "id": "2",
+        "name": "ammu",
+        "email": "ammu02@gmail.com",
+        "password": "$2y$10$SjeRkshILrrSS1e763oo4.CqDag\/Dv2IKne2vcnfNWs21.016LRAC",
+        "age": "22",
+        "dob": "1999-02-19",
+        "contact": "9444219171",
+        "timestamp": "2022-01-04 16:01:52"
+    },
+    {
+        "id": "5",
+        "name": "ashwini",
+        "email": "ashwini04@gmail.com",
+        "password": "$2y$10$2CRmNIK2xUiD37qaaw\/0J.CLcmeDwYVOC7L5facYUWiO1PWWA4PZ2",
+        "age": "19",
+        "dob": "2002-11-04",
+        "contact": "9876543210",
+        "timestamp": "2022-01-04 16:14:33"
+    },
+    {
+        "id": "6",
+        "name": "selvi",
+        "email": "selvi20@gmail.com",
+        "password": "$2y$10$qxd8yx3MftUYYhetLfdRQ.gZ2p71v5n2XpJImIbnxTW37z1fZRSyy",
+        "age": "47",
+        "dob": "1974-06-20",
+        "contact": "7878787878",
+        "timestamp": "2022-01-04 16:16:27"
+    },
+    {
+        "id": "7",
+        "name": "sudharshan",
+        "email": "sudharshan@gmail.com",
+        "password": "$2y$10$wcnVOX.PVbXmRJs3kuK8R.SSzvE64dlraJ7VCxtZFdh7RdL4TKxK.",
+        "age": "10",
+        "dob": "2011-10-08",
+        "contact": "7778889990",
+        "timestamp": "2022-01-04 19:35:36"
+    },
+    {
+        "id": "8",
+        "name": "shalu",
+        "email": "shalu@gmail.com",
+        "password": "$2y$10$DfwPJJ\/VUy3A6\/\/fVCzIfeDabA..jiy850Ws98ZigEsiBk23OAWSq",
+        "age": null,
+        "dob": null,
+        "contact": null,
+        "timestamp": "2022-01-04 20:29:19"
+    },
+    {
+        "id": "9",
+        "name": "kanagaraj",
+        "email": "kanagaraji.p@gmail.com",
+        "password": "$2y$10$xk11EFmUaVQlt9aWwcUdwOcGRuFjxNaMxCMSU2nNz\/33Zzky4QCjC",
+        "age": "49",
+        "dob": "1972-11-23",
+        "contact": "6767676767",
+        "timestamp": "2022-01-04 20:30:11"
+    },
+    {
+        "id": "10",
+        "name": "abc",
+        "email": "abc@gmail.com",
+        "password": "$2y$10$4ev\/CA4NerrZTJ88M27oYucUmM140dJmNkbATRMoQxsfigvnvZpi6",
+        "age": "1",
+        "dob": "2020-02-07",
+        "contact": "8888899999",
+        "timestamp": "2022-01-04 20:51:51"
+    }
+]
